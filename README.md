@@ -97,7 +97,6 @@ socket.on('updateUsers', (users) => {
 
  Example
  Output Preview
-<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/c736d292-d41d-4620-8082-5291e01eafa2" />
 <img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/8d7a61d0-473b-4d27-bdd8-fdc692229ae6" />
 
 Open two tabs
