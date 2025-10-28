@@ -89,13 +89,13 @@ socket.on('updateUsers', (users) => {
   userList.innerHTML = users.map(u => `<li>${u}</li>`).join('');
 });
 ```
-📂 Project Structure
+### 📂 Project Structure
 │── index.html  
 ├── server.js
 ├── package.json
 └── README.md
 
- Example
+ ### Example
  Output Preview
 <img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/8d7a61d0-473b-4d27-bdd8-fdc692229ae6" />
 
@@ -105,6 +105,6 @@ Type messages → both sides will see them instantly
 
 You’ll also see when users join or leave
 
-📜 License
+### 📜 License
 
 This project is open-source and free to use for learning and development.
