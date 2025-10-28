@@ -89,11 +89,7 @@ socket.on('updateUsers', (users) => {
   userList.innerHTML = users.map(u => `<li>${u}</li>`).join('');
 });
 ```
-### 📂 Project Structure
-│── index.html  
-├── server.js
-├── package.json
-└── README.md
+ 
 
  ### Example
  Output Preview
